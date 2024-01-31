@@ -37,6 +37,9 @@
           type="text"
           spellcheck="false"
           placeholder="Enter a valid word"
+          autocomplete="off"
+          onPaste="return false;"
+          onkeydown="if (event.key === 'Enter') { event.preventDefault(); window.checkWord(); }"
         />
         <p id="message"></p>
         <div class="buttons">
