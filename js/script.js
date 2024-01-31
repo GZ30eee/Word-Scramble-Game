@@ -123,7 +123,7 @@ const updateScoreColor = () => {
   }, 1100);
 };
 
-const checkWord = () => {
+window.checkWord = () => {
   let userWord = inputField.value.toLowerCase();
   if (!userWord) {
     messageElement.textContent = "Please enter the word to check!";
