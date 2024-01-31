@@ -19,9 +19,9 @@ You can play the game live at [here](https://gz30eee.github.io/Word-Scramble-Gam
 ## Technologies Used
 *Click on the icon to preview the files used in the project*
 
-- [HTML5](https://github.com/GZ30eee/Word-Scramble-Game/blob/master/index.html)
-- [CSS3](https://github.com/GZ30eee/Word-Scramble-Game/blob/master/style.css)
-- [JavaScript](https://github.com/GZ30eee/Word-Scramble-Game/tree/master/js)
+[![My Skills](https://skillicons.dev/icons?i=html)](https://github.com/GZ30eee/Word-Scramble-Game/blob/master/index.html)
+[![My Skills](https://skillicons.dev/icons?i=css)](https://github.com/GZ30eee/Word-Scramble-Game/blob/master/style.css)
+[![My Skills](https://skillicons.dev/icons?i=js)](https://github.com/GZ30eee/Word-Scramble-Game/tree/master/js)
 
 ## Game Features
 
@@ -32,16 +32,40 @@ You can play the game live at [here](https://gz30eee.github.io/Word-Scramble-Gam
 - Refresh Word: If you're stuck on a word, you can refresh it and get a new word.
 - Check Word: After typing a word, you can check if it's correct.
 
-## How to Run the Game
-
-1. Clone this repository.
-2. Open the `index.html` file in your web browser.
 
 Enjoy the game!
 
+## How to Clone This Repository
+
+1. First, you'll need Git installed on your local machine. If you don't have Git installed, you can find download instructions on the official Git website.
+
+2. Next, open your terminal (Mac/Linux) or command prompt (Windows).
+
+3. Navigate to the directory where you want to clone the repository.
+
+    ```bash
+    cd /path/to/your/directory
+    ```
+
+4. Now, clone the repository by running the following command:
+
+    ```bash
+    git clone https://github.com/GZ30eee/Word-Scramble-Game.git
+    ```
+
+5. This will create a new directory named `Word-Scramble-Game` containing all the files from the repository.
+
+6. Navigate into your new directory:
+
+    ```bash
+    cd Word-Scramble-Game
+    ```
+
+You now have a local copy of the project and are ready to run or modify it as you see fit!
+
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](https://www.mit.edu/~amini/LICENSE.md)
 
 ## Contact
 
