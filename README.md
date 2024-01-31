@@ -17,10 +17,11 @@ You can play the game live at [here](https://gz30eee.github.io/Word-Scramble-Gam
 5. The game continues until the time runs out.
 
 ## Technologies Used
+*Click on the icon to preview the files used in the project*
 
 - [HTML5](https://github.com/GZ30eee/Word-Scramble-Game/blob/master/index.html)
-- CSS3
-- JavaScript
+- [CSS3](https://github.com/GZ30eee/Word-Scramble-Game/blob/master/style.css)
+- [JavaScript](https://github.com/GZ30eee/Word-Scramble-Game/tree/master/js)
 
 ## Game Features
 
