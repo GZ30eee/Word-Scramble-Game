@@ -1,72 +1,87 @@
-![image](https://github.com/GZ30eee/Word-Scramble-Game/assets/130747789/33f4db83-9792-496f-a089-5b6c228a7366)
-
 # Word Scramble Game
 
-Word Scramble is a fun and challenging game that tests your word knowledge. The game presents you with a scrambled word and you have to guess the correct word within a given time.
+[![Live Demo](https://img.shields.io/badge/Play%20Now-Live%20Demo-39A7FF?style=for-the-badge&logo=github)](https://gz30eee.github.io/Word-Scramble-Game/)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](https://www.mit.edu/~amini/LICENSE.md)
 
-## Play the Game
+A fun and challenging word game that tests your vocabulary under time pressure! Unscramble letters to reveal hidden words and climb the leaderboard.
 
-You can play the game live at [here](https://gz30eee.github.io/Word-Scramble-Game/)
+![Gameplay Screenshot](https://github.com/GZ30eee/Word-Scramble-Game/assets/130747789/33f4db83-9792-496f-a089-5b6c228a7366)
 
-## How to Play
+## 🎮 Features
 
-1. The game starts by displaying a scrambled word.
-2. You have to type the correct word in the input field.
-3. If your answer is correct, your score increases.
-4. The game also provides a hint for each word.
-5. The game continues until the time runs out.
+✨ **Dynamic Gameplay**
+- 200+ words with difficulty levels (Common → Legendary)
+- Streak bonuses for consecutive correct answers
+- Time-based scoring (faster guesses = more points)
 
-## Technologies Used
-*Click on the icon to preview the files used in the project*
+🎯 **Player Assistance**
+- Smart hints for each word
+- Live input validation (green underline for partial matches)
+- Word refresh option
 
-[![My Skills](https://skillicons.dev/icons?i=html)](https://github.com/GZ30eee/Word-Scramble-Game/blob/master/index.html)
-[![My Skills](https://skillicons.dev/icons?i=css)](https://github.com/GZ30eee/Word-Scramble-Game/blob/master/style.css)
-[![My Skills](https://skillicons.dev/icons?i=js)](https://github.com/GZ30eee/Word-Scramble-Game/tree/master/js)
+🏆 **Progress Tracking**
+- Animated score updates
+- Visual feedback for correct/incorrect answers
+- Celebration effects for high scores
 
-## Game Features
+## 🛠 Technologies
 
-- Scrambled words: The game presents you with a scrambled word that you have to guess.
-- Score tracking: The game keeps track of your score.
-- Timer: The game has a timer. You have to guess the word before the time runs out.
-- Hints: The game provides a hint for each word.
-- Refresh Word: If you're stuck on a word, you can refresh it and get a new word.
-- Check Word: After typing a word, you can check if it's correct.
+| Frontend  |
+|-----------|
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) |
+| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
 
+## 🚀 Quick Start
 
-Enjoy the game!
+1. **Play Online**:  
+   [Live Demo](https://gz30eee.github.io/Word-Scramble-Game/)
 
-## How to Clone This Repository
+2. **Run Locally**:
+   ```bash
+   git clone https://github.com/GZ30eee/Word-Scramble-Game.git
+   cd Word-Scramble-Game
+   open index.html  # Or use your preferred browser
+   ```
 
-1. First, you'll need Git installed on your local machine. If you don't have Git installed, you can find download instructions on the official Git website.
+## � How to Play
 
-2. Next, open your terminal (Mac/Linux) or command prompt (Windows).
+1. Guess the unscrambled word shown on screen
+2. Type your answer in the input field
+3. Earn points based on:
+   - Word difficulty
+   - Time remaining
+   - Current streak
+4. Use hints if stuck or refresh for a new word
 
-3. Navigate to the directory where you want to clone the repository.
+**Pro Tip:** Legendary words (8+ letters) give 3× bonus points!
 
-    ```bash
-    cd /path/to/your/directory
-    ```
+## 📂 Project Structure
 
-4. Now, clone the repository by running the following command:
+```
+Word-Scramble-Game/
+├── js/
+│   ├── script.js      # Game logic and controls
+│   └── words.js       # Word database
+├── style.css          # All styling
+├── index.html         # Main interface
+└── img/               # Game assets
+```
 
-    ```bash
-    git clone https://github.com/GZ30eee/Word-Scramble-Game.git
-    ```
+## 🤝 Contributing
 
-5. This will create a new directory named `Word-Scramble-Game` containing all the files from the repository.
+Contributions are welcome! Please:
+1. Fork the repository
+2. Create a feature branch (`git checkout -b feature/your-feature`)
+3. Commit changes (`git commit -m 'Add some feature'`)
+4. Push to branch (`git push origin feature/your-feature`)
+5. Open a Pull Request
 
-6. Navigate into your new directory:
+## 📜 License
 
-    ```bash
-    cd Word-Scramble-Game
-    ```
+MIT © [GZ30eee](https://github.com/GZ30eee)
 
-You now have a local copy of the project and are ready to run or modify it as you see fit!
+## 📬 Contact
 
-## License
-
-This project is licensed under the [MIT License](https://www.mit.edu/~amini/LICENSE.md)
-
-## Contact
-
-If you want to contact me you can reach me at [GZ30ee](https://github.com/GZ30eee).
+For questions/suggestions:  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GZ30eee)
